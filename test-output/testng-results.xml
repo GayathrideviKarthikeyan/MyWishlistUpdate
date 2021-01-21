@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-01-20T22:15:43 MST" name="DollardaysMywishlistupdate" finished-at="2021-01-20T22:17:16 MST" duration-ms="92848">
+    <groups>
+    </groups>
+    <test started-at="2021-01-20T22:15:43 MST" name="MywishlistTest" finished-at="2021-01-20T22:17:16 MST" duration-ms="92848">
+      <class name="com.dollardays.testcases.MywishlistupdateTestcase">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:com.dollardays.testcases.MywishlistupdateTestcase@3eb25e1a]" started-at="2021-01-20T22:15:43 MST" name="beforeClass" finished-at="2021-01-20T22:15:43 MST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="setUpBrowser()[pri:0, instance:com.dollardays.testcases.MywishlistupdateTestcase@3eb25e1a]" started-at="2021-01-20T22:15:43 MST" name="setUpBrowser" finished-at="2021-01-20T22:15:55 MST" duration-ms="11544" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBrowser -->
+        <test-method signature="MywishlistTc()[pri:0, instance:com.dollardays.testcases.MywishlistupdateTestcase@3eb25e1a]" started-at="2021-01-20T22:15:55 MST" name="MywishlistTc" finished-at="2021-01-20T22:17:15 MST" duration-ms="80020" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MywishlistTc -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:com.dollardays.testcases.MywishlistupdateTestcase@3eb25e1a]" started-at="2021-01-20T22:17:15 MST" name="quit" finished-at="2021-01-20T22:17:16 MST" duration-ms="1234" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.dollardays.testcases.MywishlistupdateTestcase@3eb25e1a]" started-at="2021-01-20T22:17:16 MST" name="afterClass" finished-at="2021-01-20T22:17:16 MST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.dollardays.testcases.MywishlistupdateTestcase -->
+    </test> <!-- MywishlistTest -->
+  </suite> <!-- DollardaysMywishlistupdate -->
+</testng-results>
